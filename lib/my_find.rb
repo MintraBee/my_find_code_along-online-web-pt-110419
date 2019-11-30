@@ -6,4 +6,5 @@ def my_find(collection)
   yeild(collection[i])
   i = i + 1 
 end
-end
+
+
